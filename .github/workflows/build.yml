@@ -22,7 +22,6 @@ jobs:
       with:
         node-version: ${{ matrix.node }}
         cache: 'npm'
-        cache: 'yarn'
     - run: npm ci
     - run: yarn
     - run: yarn prepack
