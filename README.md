@@ -3,10 +3,10 @@
 
 Steampunk&#39;s SFDX Plugin
 
-[![Version](https://img.shields.io/npm/v/@steampunk/steampunk-sfdx-plugin.svg)](https://www.npmjs.com/package/@steampunk/steampunk-sfdx-plugin)
-[![Known Vulnerabilities](https://snyk.io/test/github/steampunkfoundry/steampunk-sfdx-plugin/badge.svg)](https://snyk.io/test/github/steampunkfoundry/steampunk-sfdx-plugin)
-[![Downloads/week](https://img.shields.io/npm/dw/@steampunk/steampunk-sfdx-plugin.svg)](https://www.npmjs.com/package/@steampunk/steampunk-sfdx-plugin)
-[![License](https://img.shields.io/npm/l/@steampunk/steampunk-sfdx-plugin.svg)](https://www.npmjs.com/package/@steampunk/steampunk-sfdx-plugin)
+[![Version](https://img.shields.io/npm/v/@steampunk/sfdx-steampunk.svg)](https://www.npmjs.com/package/@steampunk/sfdx-steampunk)
+[![Known Vulnerabilities](https://snyk.io/test/github/steampunkfoundry/sfdx-steampunk/badge.svg)](https://snyk.io/test/github/steampunkfoundry/sfdx-steampunk)
+[![Downloads/week](https://img.shields.io/npm/dw/@steampunk/sfdx-steampunk.svg)](https://www.npmjs.com/package/@steampunk/sfdx-steampunk)
+[![License](https://img.shields.io/npm/l/@steampunk/sfdx-steampunk.svg)](https://www.npmjs.com/package/@steampunk/sfdx-steampunk)
 
 <!-- toc -->
 
