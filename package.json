@@ -1,7 +1,7 @@
 {
   "name": "@steampunk/sfdx-steampunk",
   "description": "Steampunk's SFDX Plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Steampunk",
   "bugs": "https://github.com/SteampunkFoundry/sfdx-steampunk/issues",
   "dependencies": {

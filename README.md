@@ -18,7 +18,7 @@ $ npm install -g @steampunk/sfdx-steampunk
 $ sfdx COMMAND
 running command...
 $ sfdx (-v|--version|version)
-@steampunk/sfdx-steampunk/0.1.0 win32-x64 node-v16.7.0
+@steampunk/sfdx-steampunk/0.1.1 win32-x64 node-v16.7.0
 $ sfdx --help [COMMAND]
 USAGE
   $ sfdx COMMAND
