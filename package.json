@@ -24,14 +24,14 @@
   ],
   "oclif": {
     "bin": "sfdx",
-    "commands": "./lib/commands"
+    "commands": "./lib/commands",
+    "plugins": [
+      "@steampunk/sfdx-steampunk-data"
+    ],
+    "devPlugins": [
+      "@oclif/plugin-help"
+    ]
   },
-  "plugins": [
-    "@steampunk/sfdx-steampunk-data"
-  ],
-  "devPlugins": [
-    "@oclif/plugin-command-snapshot"
-  ],
   "dependencies": {
     "@oclif/command": "^1.8.16",
     "@oclif/config": "^1.18.3",
