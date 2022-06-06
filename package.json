@@ -1,7 +1,7 @@
 {
   "name": "@steampunk/sfdx-steampunk",
   "description": "Steampunk's SFDX Plugin",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "author": "Steampunk",
   "license": "MIT",
   "bugs": "https://github.com/SteampunkFoundry/sfdx-steampunk/issues",
@@ -26,7 +26,8 @@
     "bin": "sfdx",
     "commands": "./lib/commands",
     "plugins": [
-      "@steampunk/sfdx-steampunk-data"
+      "@steampunk/sfdx-steampunk-data",
+      "@steampunk/sfdx-steampunk-org"
     ],
     "devPlugins": [
       "@oclif/plugin-help"
@@ -36,7 +37,8 @@
     "@oclif/command": "^1.8.16",
     "@oclif/config": "^1.18.3",
     "@oclif/errors": "^1.3.5",
-    "@steampunk/sfdx-steampunk-data": "^0.1.4",
+    "@steampunk/sfdx-steampunk-data": "^0.2.1",
+    "@steampunk/sfdx-steampunk-org": "^0.1.1",
     "tslib": "^2.0.3"
   },
   "devDependencies": {
